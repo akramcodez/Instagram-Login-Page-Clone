@@ -20,14 +20,12 @@ Technologies Used
 
 Live Preview
 
-Check out the final result on my Instagram page (link in profile)!
+ - Check out the final result on my Instagram page - https://www.instagram.com/p/DAupssqytiu/
 
 Author
 
-[Your Name] ([Your GitHub Profile])
+ - SK Akram (@akramcodez)
 
 Connect with Me!
 
-Want to stay updated on my projects or collaborate? Visit my social media profiles via my GitHub profile.
-
-Your README effectively highlights your project's features and showcases your front-end development skills.
+ - Want to stay updated on my projects or collaborate? Visit my social media profiles via my GitHub profile.
