@@ -28,4 +28,4 @@ Author
 
 Connect with Me!
 
- - Want to stay updated on my projects or collaborate? Visit my social media profiles via my GitHub profile.
+ - Want to stay updated on my projects or collaborate? Visit my social media profiles via my GitHub profile..
