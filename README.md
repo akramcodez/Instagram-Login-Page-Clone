@@ -20,7 +20,7 @@ Technologies Used
 
 Live Preview
 
- - Check out the final result on my Instagram page - https://www.instagram.com/p/DAupssqytiu/
+ - Check out the final result -  https://insta-login-page-by-akram.web.app
 
 Author
 
